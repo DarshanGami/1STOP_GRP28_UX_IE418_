@@ -1,5 +1,5 @@
 # UX-IE418
-# 1STOP UX Platform
+# 1STOP - Ticket Booking App
 
 - **Low Fidelity Wireframe**  
   [View on Figma](https://www.figma.com/design/btRyxKdFEsuZSaCVSplaP0/1STOP_UX_LFW?node-id=0-1&t=J4zey1454qLvmVaU-1)
